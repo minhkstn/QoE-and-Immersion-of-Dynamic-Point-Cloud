@@ -27,7 +27,7 @@ Before the test, we asked the participant to provide some background information
 After the test, the participants answered a survey about cybersickness and the immersion level of the tested objects.
 The answers are stored in the table of file `questionnaire_responses.csv`. The structure of the table is described as follow.
 
-| Column Name,                                                                                                  | Data Type | Description                                                                                                      |
+| Column Name                                                                                                   | Data Type | Description                                                                                                      |
 |---------------------------------------------------------------------------------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------|
 | participant                                                                                                   | Int       | The index of the participant                                                                                     |
 | Which number do you see below?                                                                                | Int       | The first tested number for Ishihara test (must be 12)                                                           |
