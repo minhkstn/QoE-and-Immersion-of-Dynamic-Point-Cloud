@@ -22,7 +22,8 @@ The table in file `subjective_test_results.csv` contains the following informati
 
 ### Questionnaire Responses
 Before the test, we asked the participant to provide some background information, tested their color vision with Ishihara[^1].
-[^1] [https://en.wikipedia.org/wiki/Ishihara_test](https://en.wikipedia.org/wiki/Ishihara_test)
+[^1]: [https://en.wikipedia.org/wiki/Ishihara_test](https://en.wikipedia.org/wiki/Ishihara_test)
+
 After the test, the participants answered a survey about cybersickness and the immersion level of the tested objects.
 The answers are stored in the table of file `questionnaire_responses.csv`. The structure of the table is described as follow.
 
