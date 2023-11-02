@@ -2,10 +2,10 @@
 This repository contains the results of a subjective test on the quality of experience (QoE) for dynamic point clouds. Details and analysis can be found in the Reference section.
 
 ## Data Description
-The results include two files: `subjective_test_results.csv` and `questionnaire_responses.csv`. This section describes the content of each files.
+The results include two files: `rating_scores.csv` and `questionnaire_responses.csv`. This section describes the content of each file.
 
 ### Subjective Test Results
-The table in file `subjective_test_results.csv` contains the following information of the subjective test results
+The table in file `rating_scores.csv` contains the following information of the subjective test results
 
 | Column Name   | Data Type | Description                                                  |
 |---------------|-----------|--------------------------------------------------------------|
