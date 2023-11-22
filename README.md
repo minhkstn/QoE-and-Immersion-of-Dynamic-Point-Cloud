@@ -47,10 +47,23 @@ The answers are stored in the table of file `questionnaire_responses.csv`. The s
 If you use the data provided in this repository, please cite the following papers.
 
 ```
+@ARTICLE{10288458,
+  author={Nguyen, Minh and Vats, Shivi and van Damme, Sam and van der Hooft, Jeroen and Vega, Maria Torres and Wauters, Tim and De Turck, Filip and Timmerer, Christian and Hellwagner, Hermann},
+  journal={IEEE Access}, 
+  title={{Characterization of the Quality of Experience and Immersion of Point Cloud Videos in Augmented Reality Through a Subjective Study}}, 
+  year={2023},
+  volume={11},
+  number={},
+  pages={128898-128910},
+  doi={10.1109/ACCESS.2023.3326374}}
+
+```
+
+```
 @INPROCEEDINGS{10178491,
   author={Nguyen, Minh and Vats, Shivi and Van Damme, Sam and Van Der Hooft, Jeroen and Vega, Maria Torres and Wauters, Tim and Timmerer, Christian and Hellwagner, Hermann},
   booktitle={2023 15th International Conference on Quality of Multimedia Experience (QoMEX)}, 
-  title={Impact of Quality and Distance on the Perception of Point Clouds in Mixed Reality}, 
+  title={{Impact of Quality and Distance on the Perception of Point Clouds in Mixed Reality}}, 
   year={2023},
   pages={87-90},
   doi={10.1109/QoMEX58391.2023.10178491}
